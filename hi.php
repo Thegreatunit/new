@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ru">
 <head>
 <html>
@@ -34,7 +34,7 @@
 
 		}
 		let user = new User("Вася Пупкин");
-		user.sayHi(); // Вася
+		user.sayHi(); // Вася Пупкин
     </script>
   </body>
 </html>
